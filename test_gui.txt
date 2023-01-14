@@ -1,1 +1,6 @@
 test_web_dodavanje
+novi_feature1
+bug1
+novi_feature2
+bug2
+bug3
