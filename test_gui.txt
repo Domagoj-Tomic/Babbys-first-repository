@@ -4,3 +4,8 @@ bug1
 novi_feature2
 bug2
 bug3
+novi_feature3
+novi_feature4
+bug4
+bug5
+bug6
